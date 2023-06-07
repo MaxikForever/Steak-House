@@ -460,6 +460,9 @@ nav ul li a span {
   transition-duration: 0.6s;
 }
 
+#footer-row {
+ margin-top: 40px; 
+}
 #footer-row li{
   margin-top: 40px;
   list-style: none;
